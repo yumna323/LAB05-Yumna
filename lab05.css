@@ -1,0 +1,83 @@
+.box {
+    height: 200px;
+    width: 300px;
+    background-color: aquamarine;
+}
+
+.responsive-box {
+    width: 50vw;
+    height: 50vh;
+    background-color:blueviolet;
+}
+
+.padded-text {
+    padding: 20px;
+    background-color: blue;
+}
+
+.custom-padding {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: brown;
+}
+
+.border-box {
+    border: solid 2px black;
+    background-color: palegreen;
+}
+
+.rounded-border {
+    border: dotted 3px red;
+    border-radius: 15px;
+    background-color: palevioletred;
+}
+
+.margin-text {
+    margin: 30px;
+    background-color: bisque;
+}
+
+.custom-margin {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: goldenrod;
+}
+
+.inline-element {
+    display: inline;
+    background-color: slateblue;
+}
+
+.block-element {
+    display: block;
+    background-color: blue;
+}
+
+.inline-block-element {
+    display: inline-block;
+    background-color: brown;
+}
+
+.hidden-element {
+    display: none;
+    background-color: aqua;
+}
+
+.visible-element {
+    visibility: visible;
+    background-color: sandybrown;
+}
+
+.invisible-element {
+    visibility: hidden;
+    background-color: slateblue;
+}
+
+.transparent-box {
+    background-color: blue;
+    opacity: 0.5;
+}
